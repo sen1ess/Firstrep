@@ -7,3 +7,5 @@ First commit
 NewLine
 
 ItsCrazy
+
+function(a+b);
